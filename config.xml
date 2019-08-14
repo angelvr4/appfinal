@@ -14,6 +14,7 @@
 
 	<author href="iti16.com" email ="201600055@uprr.edu.mx">Web 
 	</author>
+	<plugin name="cordova-plugin-whitelist" />
 	<access origin="*" />
 	<allow-intent href="*" />
 	<allow-navigation href="http://*/*" />
