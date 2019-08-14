@@ -17,4 +17,5 @@
 	<access origin="*" />
 	<allow-navigation href="http://localhost/*" />
 	<allow-navigation href="http://vr4.iti16.com/*" />
+	<preference name="permissions" value="none"/>
 </widget>
