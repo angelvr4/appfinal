@@ -24,5 +24,4 @@
         <allow-intent href="market:*" />
     	</platform>
 	<preference name="permissions" value="none"/>
-	<plugin name="NetworkStatus" value="org.apache.cordova.NetworkManager" />
 </widget>
